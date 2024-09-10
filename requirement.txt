@@ -1,14 +1,14 @@
-pip install numpy==1.23.5   #Core library for numerical computations and array manipulation.
-pip install pandas==1.5.3   #Data analysis library with powerful DataFrame structures.
-pip install scipy==1.10.1   #Scientific computing library for advanced mathematical functions
-pip install scikit-learn==1.2.2 #ML library for classification, regression, and clustering.
-pip install tensorflow==2.13.0  #DL framework for building neural networks and ML models.
-pip install keras==2.13.1 #High-level API for building neural networks, typically used with TensorFlow
-pip install matplotlib==3.7.1 #Plotting library for animated, & interactive visualizations
-pip install seaborn==0.12.2 #Data visualization library built on top of Matplotlib, focused on statistical graphics.
-pip install plotly==5.13.1 #Interactive plotting library for web-based and real-time visualizations.
-pip install requests==2.31.0 #Simple HTTP library for making API requests and downloading data.
-pip install beautifulsoup4==4.12.2 #Web scraping library for parsing HTML and XML documents.
-pip install opencv-python==4.8.0 #Open-source computer vision library for image and video processing.
-pip install pillow==10.0.1 #Image processing library used for opening, manipulating, and saving images.
+pip install numpy==1.23.5   
+pip install pandas==1.5.3   
+pip install scipy==1.10.1   
+pip install scikit-learn==1.2.2 
+pip install tensorflow==2.13.0  
+pip install keras==2.13.1 
+pip install matplotlib==3.7.1 
+pip install seaborn==0.12.2 
+pip install plotly==5.13.1 
+pip install requests==2.31.0 
+pip install beautifulsoup4==4.12.2
+pip install opencv-python==4.8.0 
+pip install pillow==10.0.1 
 
